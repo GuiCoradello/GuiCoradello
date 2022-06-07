@@ -1,12 +1,11 @@
 ### Olá , Eu sou o Guilherme Cordadello 
  
  🛰 Atualmente nao trabalho na area tec 😥! <br>
- Meus planos a curto prazo é ingressar no mercado como <strong>desenvolvedor front-end</strong> 🤓!<br>
- <em>Meu objetivo e trabalhar como desenvolvedor full Stack</em> 🧐 ! 
+ <p><em>Meus planos a curto prazo é ingressar no mercado como <strong>desenvolvedor front-end</strong> 🤓!<br>
+ Meu objetivo e trabalhar como desenvolvedor full Stack</em>🧐!</p> 
  <div align="center">
-  
-  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=GuiCoradello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoradello&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=GuiCoradello&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoradello&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   <em>Atualmente estudo e tenho Familiaridade:</em><br>
  <div style="display: inline_block"><br>
