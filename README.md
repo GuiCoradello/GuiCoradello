@@ -1,10 +1,15 @@
 ### Olá , Eu sou o Guilherme Cordadello 
  
-- 🛰 Atualmente nao trabalho na area tec ! 
-- Meus planos a curto prazo é ingressar no mercado como <strong>desenvolvedor front-end</strong> !
-- Meu objetivo e trabalhar como desenvolvedor full Stack ! 
-- Atualmente estudo e tenho Familiaridade :
-  <div style="display: inline_block"><br>
+ 🛰 Atualmente nao trabalho na area tec 😥! <br>
+ Meus planos a curto prazo é ingressar no mercado como <strong>desenvolvedor front-end</strong> 🤓!<br>
+ <em>Meu objetivo e trabalhar como desenvolvedor full Stack</em> 🧐 ! 
+ <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GuiCoradello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoradello&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ <div style="display: inline_block"><br>
+  -<em>Atualmente estudo e tenho Familiaridade:</em><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
