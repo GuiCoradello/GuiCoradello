@@ -1,8 +1,6 @@
 ### Olá , Eu sou o Guilherme Cordadello 
+
  
- 🛰 Atualmente nao trabalho na area tec 😥! <br>
- <p><em>Meu plano é ingressar no mercado como <strong>desenvolvedor front-end</strong> 🤓!<br>
- Meu objetivo e trabalhar como desenvolvedor full Stack</em>🧐!</p> 
  <div style="display: inline_block" align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=GuiCoradello&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoradello&layout=compact&langs_count=7&theme=maroongold"/>
